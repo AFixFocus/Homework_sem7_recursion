@@ -1,0 +1,15 @@
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\bin\Debug\net6.0\Homework_sem7_recursion.exe
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\bin\Debug\net6.0\Homework_sem7_recursion.deps.json
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\bin\Debug\net6.0\Homework_sem7_recursion.runtimeconfig.json
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\bin\Debug\net6.0\Homework_sem7_recursion.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\bin\Debug\net6.0\Homework_sem7_recursion.pdb
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.csproj.AssemblyReference.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.AssemblyInfoInputs.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.AssemblyInfo.cs
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.csproj.CoreCompileInputs.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\refint\Homework_sem7_recursion.dll
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.pdb
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\Homework_sem7_recursion.genruntimeconfig.cache
+C:\Users\60108200\Desktop\Learning\GeekBranins -lerging\Знакомство с языками программирования (лекции)\Семинар 7\Homework_sem7_recursion\obj\Debug\net6.0\ref\Homework_sem7_recursion.dll
